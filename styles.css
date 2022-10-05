@@ -174,7 +174,7 @@ footer {
 
 @media screen and (min-width: 767.5px) and (max-width: 1439.5px) {
     body {
-        background-image: url(../starter-code/assets/image-hero-tablet.png);
+        background-image: url(./starter-code/assets/image-hero-tablet.png);
         background-position: top -100px right -300px;
         background-repeat: no-repeat;
     }
@@ -276,7 +276,7 @@ h1 {
 }
 
     body {
-        background-image: url(../starter-code/assets/image-hero-desktop.png);
+        background-image: url(./starter-code/assets/image-hero-desktop.png);
         background-position: top -150px right -350px;
         background-repeat: no-repeat;
     }
